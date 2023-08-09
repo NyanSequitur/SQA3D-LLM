@@ -44,6 +44,9 @@ ln ../sqa3dTest/ scans
 ```
 Some of the SegmentAnything3D preprocessing expects that file structure.
 
+Blip-2 model can be found [here](https://drive.google.com/file/d/17l9pzUf1L7DuvhP7ynviWlOAM_iorCce) and the SAM3D model is found [here](https://github.com/facebookresearch/segment-anything#model-checkpoints). Download and place in the models folder.
+
+
 
 # Usage
 
